@@ -1,6 +1,9 @@
 #Sample Python Program 
 
-Print ("This is sample program")
+print ("This is sample program")
+
 
 print ("\n")
+
+print ("This is JENKINS") 
 
